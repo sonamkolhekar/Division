@@ -11,10 +11,18 @@ public class Division {
 		int g=40;
 		int h=20;
 		System.out.println("Division "+(g/h));
+
 		//conflict example from user
 		 g=80;
 	     h=40;
 		System.out.println("Division "+(g/h));
+
+		//data add from github
+		 e=60;
+		 f=20;
+		System.out.println("Division "+(e/f));
+		
+
 
 	}
 
