@@ -11,6 +11,11 @@ public class Division {
 		int g=40;
 		int h=20;
 		System.out.println("Division "+(g/h));
+		//data add from github
+		int e=60;
+		int f=20;
+		System.out.println("Division "+(e/f));
+		
 
 	}
 
